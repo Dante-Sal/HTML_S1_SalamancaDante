@@ -1,0 +1,100 @@
+/* Estableciendo la distribución en columnas y centrando el contenido de la página web */
+body {
+    display: flex;
+    justify-content: center;
+}
+
+/* Dejando márgenes arriba, abajo y a la izquierda por razones estéticas */
+.teodio1 {
+    margin: 15px 0;
+    margin-left: 15px;
+}
+
+/* Dejando márgenes arriba y abajo por razones estéticas */
+.teodio2 {
+    margin: 15px 0;
+}
+
+/* Dejando márgenes arriba, abajo y a la derecha por razones estéticas */
+.teodio3 {
+    margin: 15px 0;
+    margin-right: 15px;
+}
+
+.teodio {
+    /* Estableciendo la distribución en columnas y centrando el contenido de la hoja de vida */
+    display: flex;
+    justify-content: center;
+    /* Agregando un borde sólido de color negro a la hoja de vida */
+    border: 7px solid black;
+}
+
+.teodio1_1 {
+    /* Eliminando cualquier margen interno del contenedor de la foto */
+    padding: 0;
+    /* Estableciendo márgenes de 5 píxeles arriba y abajo y de 10 píxeles a la derecha y a la izquierda */
+    margin: 5px 10px;
+    /* Agregando un borde sólido de color transparente al contenedor de la foto para añadir espacio extra */
+    border: 5px solid transparent;
+}
+
+#foto {
+    /* Eliminando cualquier margen interno o externo de la foto */
+    padding: 0;
+    margin: 0;
+    /* Asignando el tamaño de la foto */
+    width: 370px;
+    /* Agregando un borde sólido de color negro a la hoja de vida */
+    border: 7px solid black;
+    /* Redondeando los bordes de la foto */
+    border-radius: 100%;
+}
+
+#certificado1 {
+    /* Eliminando cualquier margen interno del certificado */
+    padding: 0;
+    /* Estableciendo márgenes de 5 píxeles en todas direcciones */
+    margin: 5px;
+    /* Asignando el tamaño de la imagen del certificado */
+    width: 150px;
+}
+
+/* Asignando características como el margen interno de 25 px, 
+el margen externo en dirección vertical de 5 px, 
+el margen externo en dirección horizontal de 10 px y
+el borde sólido negro a todas las secciones de la hoja de vida */
+
+.teodio1_2 {
+    padding: 25px;
+    margin: 5px 10px;
+    border: 7px solid black;
+}
+
+.teodio1_3 {
+    padding: 25px;
+    margin: 5px 10px;
+    border: 7px solid black;
+}
+
+.teodio2_1 {
+    padding: 25px;
+    margin: 5px 10px;
+    border: 7px solid black;
+}
+
+.teodio2_2 {
+    padding: 25px;
+    margin: 5px 10px;
+    border: 7px solid black;
+    /* Estableciendo márgenes internos específicos a la segunda sección de la segunda columna por razones estéticas */
+    padding-bottom: 34px;
+}
+
+.teodio3_1 {
+    padding: 25px;
+    margin: 5px 10px;
+    border: 7px solid black;
+    /* Estableciendo márgenes internos específicos a la segunda sección de la segunda columna por razones estéticas */
+    padding-bottom: 30px;
+}
+
