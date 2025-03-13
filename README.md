@@ -35,3 +35,36 @@ En el día 3 se desarrolló una actividad similar a la segunda del día anterior
 
 [Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_3/)
 [Clic aquí para dirigirse a la documentación de la actividad](Día_3/README.md)
+
+## Día 4
+
+En el día 4 se desarrolló una actividad relacionada con la temática formularios, siendo una experiencia meramente estética, puesto que el form creado no cumple ninguna funcionalidad. En este trabajo se hizo uso de diferentes atributos de diferentes tipos de entradas y elementos HTML para conseguir el resultado solicitado en los requerimientos de este pequeño proyecto:
+
+### Requerimientos:
+
+Se requiere la creación de una página web que albergue un formulario de registro con diversos campos de información. Los elementos que deben incluirse son los siguientes:
+
+- Nombre: Se utilizará un control de tipo texto para ingresar esta información.
+- Apellidos: Asimismo, se empleará un control de tipo texto para introducir los apellidos.
+- Sexo: Se proporcionarán dos opciones excluyentes, hombre o mujer, mediante un control correspondiente.
+- Correo electrónico: Se utilizará un control de tipo email para ingresar esta información.
+- Casilla de verificación: Con el texto "Deseo recibir información sobre novedades y ofertas", activada por defecto.
+- Casilla de verificación: Con el texto "Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos".
+- Botón de envío.
+
+Además, se deben tener en cuenta ciertos requisitos, tales como:
+
+- Título de la página: "Formulario de registro - Mi web".
+- Método de envío del formulario: POST.
+- Destino del envío del formulario: "".
+- Longitud máxima de entrada de datos para nombre y apellidos: 50 caracteres.
+
+Para complementar el formulario mencionado, se deben añadir los siguientes campos:
+
+- Población: Se incorporará una lista desplegable con las opciones Bucaramanga,Giron,Floridablanca y Piedecuesta.
+- Descripción: Se incluirá un área de texto multilínea.
+
+Asimismo, es fundamental asociar la etiqueta de cada control a su respectivo elemento para mejorar la usabilidad y accesibilidad del formulario.
+
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_4/)
+[Clic aquí para dirigirse a la documentación de la actividad](Día_4/README.md)

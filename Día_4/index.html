@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de registro - Mi web</title>
+    <link rel="stylesheet" href="./style/style.css"/>
+</head>
+<body>
+    <form name="userdata" action="" method="post">
+        <h1>Formulario de registro - Mi web</h1>
+        <input name="nombre" type="text" maxlength="50" placeholder="Nombres" required/><br/><br/>
+        <input name="apellido" type="text" maxlength="50" placeholder="Apellidos" required/><br/><br/>
+        <input name="sexo" type="radio" checked/><label for="sexo">Hombre</label>
+        <input name="sexo" type="radio"/><label for="sexo">Mujer</label><br/><br/>
+        <input name="correo" type="email" placeholder="Correo" required/><br/><br/>
+        <input name="verificacion1" type="checkbox" checked/><label for="verificacion1">Deseo recibir información sobre novedades y ofertas</label><br/><br/>
+        <input name="verificacion2" type="checkbox"/><label for="verificacion2">Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos</label><br/><br/>
+        <input type="submit"/><br/><br/>
+        <select name="poblacion" id="pb">
+            <option value="seleccion">Selecciona una población</option>
+            <option value="bucaramanga">Bucaramanga</option>
+            <option value="giron">Girón</option>
+            <option value="floridablanca">Floridablanca</option>
+            <option value="piedecuesta">Piedecuesta</option>
+        </select><br/>
+        <label for="descripcion"><h3>Descripción</h3></label>
+        <textarea name="descripcion" id="dsc" cols="100" rows="10"></textarea>
+    </form>
+</body>
+</html>
