@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "Amazon Ember Light";
+    src: url(../font/AmazonEmber_Lt.ttf);
+}
+
+@font-face {
+    font-family: "Amazon Ember Bold";
+    src: url(../font/AmazonEmber_Bd.ttf);
+}
+
+body {
+    margin: 0;
+    background-image: url(../img/Path1.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#fondo {
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+}
+
+#amazonsito {
+    position: absolute;
+    top: 227px;
+    left: 682px;
+    width: 556px;
+    height: 313px;
+}
+
+#lupita {
+    position: absolute;
+    top: 37px;
+    left: 63px;
+    width: 36px;
+}
+
+#logintxt {
+    background-color: white;
+    font-size: 21px;
+    font-family: "Amazon Ember Light";
+    position: absolute;
+    top: 30px;
+    left: 1695px;
+    width: 205px;
+    height: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 22px;
+}
+
+#maintxt {
+    position: absolute;
+    font-size: 60.5px;
+    font-family: "Amazon Ember Bold";
+    color: white;
+    top: 440px;
+    left: 389px;
+}
+
+#parrafito {
+    position: absolute;
+    font-size: 30.5px;
+    font-family: "Amazon Ember Light";
+    color: white;
+    top: 570px;
+    left: 380px;
+    text-align: center;
+}
+
+#sign {
+    position: absolute;
+    display: flex;
+    background-color: white;
+    font-size: 40px;
+    font-family: "Amazon Ember Light";
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    top: 755px;
+    left: 730px;
+    width: 458px;
+    height: 104px;
+}
+
+#box1 {
+    position: absolute;
+    top: 1106px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+}
