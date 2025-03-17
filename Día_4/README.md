@@ -1,6 +1,6 @@
 # Formulario
 
-En este proyecto se trabajó el uso de HTML + CSS, más específicamente del uso de formularios y entradas de diferentes tipos, de esta manera se creó un sistema de llenado de información que debe cumplir ciertos requeimientos para poder ser enviados (aclaración: este fomulario no es funcional, es meramente estético).
+En este proyecto se trabajó el uso de HTML + CSS, más específicamente del uso de formularios y entradas de diferentes tipos, de manera que se creó un sistema de llenado de información que debe cumplir ciertos requeimientos para poder ser enviados (aclaración: este fomulario no es funcional, es meramente estético).
 
 |Tabla de contenidos|
 |--|

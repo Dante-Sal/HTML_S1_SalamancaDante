@@ -77,7 +77,7 @@ body {
     background-color: white;
     font-size: 40px;
     font-family: "Amazon Ember Light";
-    border-radius: 50px;
+    border-radius: 52px;
     justify-content: center;
     align-items: center;
     top: 755px;
@@ -92,4 +92,177 @@ body {
     left: 64px;
     width: 1792px;
     height: 567px;
+}
+
+#box2 {
+    position: absolute;
+    justify-content: center;
+    background-color: #00a8e1;
+    border-radius: 108px;
+    top: 1717px;
+    left: 64px;
+    width: 1792px;
+    height: 724px;
+}
+
+#titulitobox2 {
+    position: absolute;
+    font-size: 61px;
+    font-family: "Amazon Ember Bold";
+    color: white;
+    top: 1700px;
+    left: 130px;
+}
+
+#spacesweepers, #reddot, #tentacles, #centinelli {
+    width: 181px;
+}
+
+#spacesweepers {
+    position: absolute;
+    top: 1896px;
+    left: 477px;
+}
+
+#reddot {
+    position: absolute;
+    top: 1896px;
+    left: 670px;
+}
+
+#tentacles {
+    position: absolute;
+    top: 1896px;
+    left: 1055px;
+}
+
+#centinelli {
+    position: absolute;
+    top: 1896px;
+    left: 1248px;
+}
+
+#soul {
+    position: absolute;
+    top: 1896px;
+    left: 863px;
+    width: 180px;
+}
+
+#parrafitobox2 {
+    position: absolute;
+    font-size: 50px;
+    font-family: "Amazon Ember Light";
+    text-align: center;
+    color: white;
+    top: 2230px;
+    left: 207px;
+}
+
+#box3 {
+    position: absolute;
+    justify-content: center;
+    background-color: #00a8e1;
+    border-radius: 108px;
+    top: 2467px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+}
+
+#titulitobox3 {
+    position: absolute;
+    font-size: 61px;
+    font-family: "Amazon Ember Bold";
+    color: white;
+    top: 2480px;
+    left: 560px;
+}
+
+#cruz {
+    position: absolute;
+    top: 2650px;
+    left: 876px;
+    width: 169px;
+    height: 169px;
+}
+
+#parrafitobox3 {
+    position: absolute;
+    font-size: 40px;
+    font-family: "Amazon Ember Light";
+    text-align: center;
+    color: white;
+    top: 2825px;
+    left: 305px;
+}
+
+#subtitulito {
+    position: absolute;
+    font-size: 123px;
+    font-family: "Amazon Ember Light";
+    color: white;
+    top: 2980px;
+    left: 418px;
+}
+
+#info {
+    position: absolute;
+    font-size: 45px;
+    font-family: "Amazon Ember Light";
+    text-align: center;
+    color: white;
+    top: 3250px;
+    left: 181px;
+}
+
+#mac {
+    position: absolute;
+    top: 3440px;
+    left: 685px;
+    width: 584px;
+}
+
+#iphone {
+    position: absolute;
+    top: 3606px;
+    left: 386px;
+    width: 256px;
+}
+
+#pc {
+    position: absolute;
+    top: 3587px;
+    left: 1261px;
+    width: 271px;
+}
+
+#flechaL {
+    position: absolute;
+    top: 3689px;
+    left: 305px;
+    width: 19px;
+}
+
+#flechaR {
+    position: absolute;
+    top: 3702px;
+    left: 1575px;
+    width: 18px;
+    transform: scaleX(-1);
+}
+
+#footer {
+    position: absolute;
+    top: 4088px;
+    left: 543px;
+    width: 831px;
+}
+
+#margeninferior {
+    position: absolute;
+    top: 4088px;
+    left: 543px;
+    width: 831px;
+    height: 60px;
 }

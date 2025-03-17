@@ -1,6 +1,6 @@
 # Hoja de Vida
 
-En este proyecto se trabajó el uso de HTML + CSS, más específicamente del uso de tablas y sus diferentes funciones, de esta manera se creó un sistema de columnas que permitieron almacenar diferentes tipos de datos como texto, listas o imágenes.
+En este proyecto se trabajó el uso de HTML + CSS, más específicamente del uso de tablas y sus diferentes funciones, de manera que se creó un sistema de columnas que permitieron almacenar diferentes tipos de datos como texto, listas o imágenes.
 
 |Tabla de contenidos|
 |--|

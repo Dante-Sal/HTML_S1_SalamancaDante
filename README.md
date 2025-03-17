@@ -7,6 +7,8 @@ En este proyecto de HTML + CSS se traajaron diversas actividades relacionadas a 
 |[Día 1](#Dia1)|
 |[Día 2](#Dia2)|
 |[Día 3](#Dia3)|
+|[Día 4](#Dia4)|
+|[Día 5](#Dia5)|
 
 <a name="Dia1"></a>
 
@@ -35,6 +37,8 @@ En el día 3 se desarrolló una actividad similar a la segunda del día anterior
 
 [Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_3/)
 [Clic aquí para dirigirse a la documentación de la actividad](Día_3/README.md)
+
+<a name="Dia4"></a>
 
 ## Día 4
 
@@ -68,3 +72,14 @@ Asimismo, es fundamental asociar la etiqueta de cada control a su respectivo ele
 
 [Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_4/)
 [Clic aquí para dirigirse a la documentación de la actividad](Día_4/README.md)
+
+<a name="Dia5"></a>
+
+## Día 5
+
+En el día 5 se desarrolló una actividad relacionada con la temática hoja de estilo en cascada (archivos tipo CSS), siendo una experiencia meramente estética, puesto que el sitio web creado no cumple ninguna funcionalidad. En este trabajo se hizo uso de diferentes atributos de estilo, haciendo énfasis en los atributos de posición y siguiendo unos requerimientos especificados en una maqueta de Adobe XD:
+
+[Formato solicitado](https://xd.adobe.com/view/64812a19-92af-4081-a325-50859a53e21f-31d2/)
+
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_5/)
+[Clic aquí para dirigirse a la documentación de la actividad](Día_5/README.md)
