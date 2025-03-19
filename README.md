@@ -9,6 +9,8 @@ En este proyecto de HTML + CSS se traajaron diversas actividades relacionadas a 
 |[Día 3](#Dia3)|
 |[Día 4](#Dia4)|
 |[Día 5](#Dia5)|
+|[Día 6](#Dia6)|
+|[Día 7](#Dia7)|
 
 <a name="Dia1"></a>
 
@@ -83,3 +85,20 @@ En el día 5 se desarrolló una actividad relacionada con la temática hoja de e
 
 [Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_5/)
 [Clic aquí para dirigirse a la documentación de la actividad](Día_5/README.md)
+
+<a name="Dia6"></a>
+
+## Día 6
+
+(Este directorio no contiene ningún elemento)
+
+<a name="Dia7"></a>
+
+## Día 7
+
+En el día 7 se desarrolló una actividad relacionada con la temática hoja de estilo en cascada (archivos tipo CSS), siendo una experiencia meramente estética (únicamente interactiva por la conexión de dos sitios a través de un enlace), puesto que el sitio web creado no cumple ninguna funcionalidad. En este trabajo se hizo uso de diferentes atributos de estilo, haciendo énfasis en los atributos de posición y siguiendo unos requerimientos especificados en una maqueta de Adobe XD:
+
+[Formato solicitado](https://xd.adobe.com/view/458d657c-d9f7-4ac4-8130-01ca543bef21-10de/)
+
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_7/)
+[Clic aquí para dirigirse a la documentación de la actividad](Día_7/README.md)

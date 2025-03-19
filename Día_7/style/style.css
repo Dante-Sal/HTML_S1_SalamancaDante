@@ -1,0 +1,252 @@
+@font-face {
+    font-family: 'Open Sans Regular';
+    src: url(../font/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Open Sans Semibold';
+    src: url(../font/OpenSans-SemiBold.ttf);
+}
+
+.container {
+    position: absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1600px;
+    height: 1200px;
+    background: linear-gradient(180deg, #ffffff 0%, #e6e6e6 21%, #808080 100%);
+}
+
+.container .background .card {
+    display: flex;
+    background-color: #ffffff;
+    border: 1px solid #707070;
+    width: 1400px;
+    height: 800px;
+}
+
+.container .background .card .card__mainlogo {
+    position: absolute;
+    margin: 43px 0px 0px 43px;
+    width: 196px;
+    height: 44px;
+}
+
+.container .background .card .card__buycard, .container .background .card .card__buycard:visited {
+    position: absolute;
+    margin: 40px 0px 0px 700px;
+    color: #000000;
+    font-size: 30px;
+    font-family: 'Open Sans Regular';
+    text-decoration: none;
+}
+
+.container .background .card .card__div--index {
+    position: absolute;
+    margin: 102.5px 0px 0px 740.5px;
+    border: 2px solid #212020;
+    width: 146px;
+}
+
+.container .background .card .card__div--checkbalance {
+    position: absolute;
+    margin: 102.5px 0px 0px 995.75px;
+    border: 2px solid #212020;
+    width: 84px;
+}
+
+.container .background .card .card__checkbalance, .container .background .card .card__checkbalance:visited {
+    position: absolute;
+    margin: 42px 0px 0px 972px;
+    color: #000000;
+    font-size: 30px;
+    font-family: 'Open Sans Regular';
+    text-decoration: none;
+}
+
+.container .background .card .card__search {
+    position: absolute;
+    margin: 51.75px 0px 0px 1123.7px;
+    width: 27px;
+    height: 27px;
+}
+
+.container .background .card .card__shoppingcart {
+    position: absolute;
+    margin: 51.5px 0px 0px 1223.67px;
+    width: 33px;
+    height: 32px;
+}
+
+.container .background .card .card__cardimg--index {
+    margin: 121px 0px 0px 140px;
+    width: 884px;
+    height: 497px;
+}
+
+.container .background .card .card__cardimg--checkbalance {
+    margin: 103px 0px 0px 359px;
+    width: 576px;
+    height: 324px;
+}
+
+.container .background .card .card__balance--index {
+    position: absolute;
+    margin: 661px 0px 0px 58px;
+}
+
+.container .background .card .card__balance--checkbalance {
+    position: absolute;
+    text-align: center;
+    margin: 400px 0px 0px 301px;
+}
+
+.container .background .card .card__balance--index .card__balance--title, .container .background .card .card__balance--checkbalance .card__balance--title {
+    margin: 0px;
+    font-size: 40px;
+    font-family: 'Open Sans Semibold';
+}
+
+.container .background .card .card__balance--index p1 .card__balance--paragraphindex {
+    margin: 8px 0px 0px 0px;
+    font-size: 27px;
+    font-family: 'Open Sans Semibold';
+}
+
+.container .background .card .card__balance--checkbalance p1 .card__balance--paragraphcheckbalance {
+    margin-top: 22px;
+    font-size: 27px;
+    font-family: 'Open Sans Semibold';
+}
+
+.container .background .card .card__balance--checkbalance p2 .card__balance--paragraphcheckbalance {
+    margin-top: 30px;
+    font-size: 27px;
+    font-family: 'Open Sans Semibold';
+}
+
+.container .background .card .card__balance--checkbalance .card__balance--placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 18px auto 0px;
+    font-size: 27px;
+    font-family: 'Open Sans Semibold';
+    color: #00000080;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    width: 288px;
+    height: 58px;
+}
+
+.container .background .card .card__buybtn--index {
+    display: grid;
+    justify-content: center;
+    margin: 647px 0px 0px 57px;
+    background-color: #d5ff43;
+    border-radius: 8px;
+    width: 160px;
+    height: 114px;
+}
+
+.container .background .card .card__buybtn--checkbalance {
+    display: grid;
+    justify-content: center;
+    margin: 647px 0px 0px 146px;
+    background-color: #d5ff43;
+    border-radius: 8px;
+    width: 160px;
+    height: 114px;
+}
+
+.container .background .card .card__buybtn--index .card__buylogo, .container .background .card .card__buybtn--checkbalance .card__buylogo {
+    margin-top: 29px;
+    width: 129px;
+    height: 29px;
+}
+
+.container .background .card .card__buybtn--index .card__buytext, .container .background .card .card__buybtn--checkbalance .card__buytext {
+    text-align: center;
+    margin-top: 12px;
+    font-size: 26px;
+    font-family: 'Open Sans Semibold';
+}
+
+.container .background .card .card__sidebar {
+    margin: 0px 0px 0px auto;
+    background-color: #212020;
+    border-radius: 0px 8px 8px 0px;
+    width: 110px;
+    height: 800px;
+}
+
+.container .background .card .card__sidebar .card__arrowup {
+    margin: 39px auto;
+    width: 24px;
+}
+
+.container .background .card .card__sidebar .card__amount--index {
+    text-align: center;
+    margin-top: 90px;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Open Sans Regular';
+}
+
+.container .background .card .card__sidebar .card__amount--checkbalance {
+    text-align: center;
+    margin-top: 112.29px;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Open Sans Regular';
+}
+
+.container .background .card .card__sidebar .card__number1--index {
+    margin-top: 132px;
+    text-align: center;
+    color: #ffffff80;
+    font-size: 20px;
+    font-family: 'Open Sans Regular';
+}
+
+.container .background .card .card__sidebar .card__number1--checkbalance {
+    margin-top: 110px;
+    text-align: center;
+    color: #ffffff80;
+    font-size: 20px;
+    font-family: 'Open Sans Regular';
+}
+
+.container .background .card .card__sidebar .card__number2 {
+    margin-top: 52px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Open Sans Regular';
+}
+
+.container .background .card .card__sidebar .card__number3 {
+    margin-top: 52px;
+    text-align: center;
+    color: #ffffff80;
+    font-size: 20px;
+    font-family: 'Open Sans Regular';
+}
+
+.container .background .card .card__sidebar .card__arrowdown {
+    margin: 248px auto;
+    width: 24px;
+    transform: scaleY(-1);
+}
+
