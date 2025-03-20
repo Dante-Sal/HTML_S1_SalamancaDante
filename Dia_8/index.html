@@ -12,19 +12,19 @@
 
     <header>
         <div class="header">
-            <p class="header__logo">logo</p>
-            <p class="header__home">home</p>
-            <p class="header__about">about</p>
-            <p class="header__menu">menu</p>
-            <p class="header__contact">contact</p>
+            <a class="header__logo">logo</a>
+            <a class="header__home" href="#section__title section__title1">home</a>
+            <a class="header__about" href="#section1__title">about</a>
+            <a class="header__menu" href="#section4__title">menu</a>
+            <a class="header__contact" href="#footer__decorationline">contact</a>
         </div>
     </header>
 
     <section class="section1">
-        <img class="section1__img" src="./img/pexels-nao-triponez-129207.jpg"/>
-        <div class="section1__gradient"></div>
-        <p class="section1__title section1__title1">start your day</p>
-        <p class="section1__title section1__title2">with our coffee</p>
+        <img class="section__img" src="./img/pexels-nao-triponez-129207.jpg"/>
+        <div class="section__gradient"></div>
+        <p id="section__title section__title1" class="section__title section__title1">start your day</p>
+        <p class="section__title section__title2">with our coffee</p>
 
         <div class="section__btn section__btn--shop">
             <p>shop now</p>
@@ -33,11 +33,11 @@
     </section>
 
     <section class="section2">
-        <img class="section2__img" src="./img/pexels-chitokan-2183027-removebg-preview.png"/>
-        <div class="section2__decorationline"></div>
-        <p class="section2__title"><span>o</span>ur <span>s</span>tory</p>
+        <img class="section__img" src="./img/pexels-chitokan-2183027-removebg-preview.png"/>
+        <div class="section__decorationline"></div>
+        <p id="section1__title" class="section__title"><span>o</span>ur <span>s</span>tory</p>
 
-        <p class="body__text section2__paragraph"><span>lorem</span> ipsum dolor sit amet consectetur adipisicing elit. <span>dolor</span><br/>doloremque
+        <p class="body__text section__paragraph"><span>lorem</span> ipsum dolor sit amet consectetur adipisicing elit. <span>dolor</span><br/>doloremque
             reiciendis ea voluptatibus. quis modi ratione incidunt<br/>ipsam</p>
 
         <div class="section__btn section__btn--learn">
@@ -47,9 +47,9 @@
     </section>
 
     <section class="section3">
-        <img class="section3__img" src="./img/2.png"/>
-        <p class="section3__title"><span>p</span>erfect <span>p</span>lace<br/><span>t</span>o <span>e</span>njoy <span>y</span>our<br/><span>c</span>offee</p>
-        <p class="body__text section3__paragraph"><span>l</span>orem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <img class="section__img" src="./img/2.png"/>
+        <p class="section__title"><span>p</span>erfect <span>p</span>lace<br/><span>t</span>o <span>e</span>njoy <span>y</span>our<br/><span>c</span>offee</p>
+        <p class="body__text section__paragraph"><span>l</span>orem ipsum dolor sit amet consectetur adipisicing elit.</p>
 
         <div class="section__btn section__btn--learn">
             <p>learn more</p>
@@ -58,16 +58,16 @@
     </section>
 
     <section class="section4">
-        <p class="section4__title"><span>p</span>roducts</p>
+        <p id="section4__title" class="section__title"><span>p</span>roducts</p>
 
-        <div class="section4__products">
+        <div class="section__products">
 
-            <div class="section4__product section4__product1">
-
-                <div class="section4__info">
-                    <p class="section4__info--title">mocha</p>
+            <div class="section__product section__product1">
+                
+                <div class="section__info">
+                    <p class="section__info--title">mocha</p>
                     
-                    <div class="section4__info--content">
+                    <div class="section__info--content">
                         <p class="body__text">espresso</p>
                         <p class="body__text">chocolate</p>
                         <p class="body__text">steamed milk</p>
@@ -79,15 +79,15 @@
 
                 </div>
 
-                <img class="section4__img" src="./img/1.png"/>
+                <img class="section__img" src="./img/1.png"/>
             </div>
 
-            <div class="section4__product section4__product2">
+            <div class="section__product section__product2">
                 
-                <div class="section4__info">
-                    <p class="section4__info--title">mocha</p>
+                <div class="section__info">
+                    <p class="section__info--title">mocha</p>
                     
-                    <div class="section4__info--content">
+                    <div class="section__info--content">
                         <p class="body__text">espresso</p>
                         <p class="body__text">chocolate</p>
                         <p class="body__text">steamed milk</p>
@@ -99,15 +99,15 @@
 
                 </div>
 
-                <img class="section4__img" src="./img/3.png"/>
+                <img class="section__img" src="./img/3.png"/>
             </div>
 
-            <div class="section4__product section4__product3">
+            <div class="section__product section__product3">
                 
-                <div class="section4__info">
-                    <p class="section4__info--title">mocha</p>
+                <div class="section__info">
+                    <p class="section__info--title">mocha</p>
                     
-                    <div class="section4__info--content">
+                    <div class="section__info--content">
                         <p class="body__text">espresso</p>
                         <p class="body__text">chocolate</p>
                         <p class="body__text">steamed milk</p>
@@ -119,7 +119,7 @@
 
                 </div>
             
-                <img class="section4__img" src="./img/4.png"/>
+                <img class="section__img" src="./img/4.png"/>
             </div>
 
         </div>
@@ -129,33 +129,33 @@
     <footer>
 
         <div class="footer">
-            <div class="footer__decorationline footer__decorationline1"></div>
+            <div id="footer__decorationline" class="footer__decorationline"></div>
             
             <div class="footer__info">
 
                 <div class="footer__infosection">
                     <p class="footer__infosection--title">about <span>us</span></p>
-                    <p class="body__text">sit amet consectetur adipisicing elit. dolor
+                    <p class="body__text"><span>s</span>it amet consectetur adipisicing elit. <span>d</span>olor<br/>
                         doloremque reiciendis ea voluptatibus.</p>
                 </div>
 
                 <div class="footer__infosection">
                     <p class="footer__infosection--title">contact <span>us</span></p>
-                    <p class="body__text">sit amet consectetur adipisicing elit. dolor
+                    <p class="body__text"><span>s</span>it amet consectetur adipisicing elit. <span>d</span>olor<br/>
                         doloremque reiciendis ea voluptatibus.</p>
                 </div>
 
                 <div class="footer__infosection">
                     <p class="footer__infosection--title">opening <span>hourse</span></p>
-                    <p class="body__text">sit amet consectetur adipisicing elit. dolor
+                    <p class="body__text"><span>s</span>it amet consectetur adipisicing elit. <span>d</span>olor<br/>
                         doloremque reiciendis ea voluptatibus.</p>
                 </div>
 
             </div>
 
-            <div class="footer__decorationline footer__decorationline2"></div>
-            <p class="footer__copyright">copyright @ 2024 <span class="footer__copyright--upper">cl</span> | 
-                provided by <span class="footer__copyright--emphasis">cl</span></p>
+            <div class="footer__decorationline"></div>
+            <p class="body__text footer__copyright"><span>c</span>opyright @ 2024 <span class="footer__copyright--upper">cl</span> | 
+                <span>p</span>rovided by <span class="footer__copyright--emphasis">cl</span></p>
         </div>
 
     </footer>

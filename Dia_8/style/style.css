@@ -13,9 +13,22 @@
     src: url(../font/CYRVETIC.ttf);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0px;
     background-color: #0c0b0b;
+}
+
+body::-webkit-scrollbar {
+    width: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #ffffff80;
+    border-radius: 5px;
 }
 
 .header {
@@ -38,17 +51,22 @@ body {
 
 .header .header__home {
     margin: 0px 0px 0px 751.6px;
+    color: #ffffff;
     font-size: 18.3px;
     font-family: 'Cyrvetic', sans-serif;
+    text-decoration: none;
     text-transform: capitalize;
     cursor: default;
     user-select: none;
+    scroll-behavior: smooth;
 }
 
 .header .header__about, .header .header__menu, .header .header__contact {
     margin: 0px 0px 0px 55.9px;
+    color: #ffffff;
     font-size: 18.3px;
     font-family: 'Cyrvetic', sans-serif;
+    text-decoration: none;
     text-transform: capitalize;
     cursor: default;
     user-select: none;
@@ -64,12 +82,12 @@ body {
     z-index: 1;
 }
 
-.section1 .section1__img {
+.section1 .section__img {
     margin-top: -104.3px;
     width: 1920px;
 }
 
-.section1 .section1__gradient {
+.section1 .section__gradient {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -78,7 +96,7 @@ body {
     background: linear-gradient(to bottom, #ffffff00, 90%, #0c0b0b);
 }
 
-.section1 .section1__title {
+.section1 .section__title {
     position: absolute;
     color: #ffffff;
     font-size: 84.5px;
@@ -87,18 +105,17 @@ body {
     cursor: default;
 }
 
-.section1 .section1__title1 {
+.section1 .section__title1 {
     top: 87px;
     left: 610px;
 }
 
-.section1 .section1__title2 {
+.section1 .section__title2 {
     top: 808px;
     left: 563.8px;
 }
 
 .section__btn {
-    position: absolute;
     padding: 0px;
     display: flex;
     justify-content: center;
@@ -117,16 +134,17 @@ body {
 }
 
 .section1 .section__btn {
+    position: absolute;
     top: 1027px;
     left: 882.8px;
 }
 
-.section2 .section2__img {
+.section2 .section__img {
     margin: 136.3px 0px 0px 31.7px;
     width: 780px;
 }
 
-.section2 .section2__decorationline {
+.section2 .section__decorationline {
     position: absolute;
     top: 1489.7px;
     left: 970.3px;
@@ -135,7 +153,7 @@ body {
     border: 3.1px solid #ffffff;
 }
 
-.section2 .section2__title {
+.section2 .section__title {
     position: absolute;
     top: 1354px;
     left: 1124.7px;
@@ -146,28 +164,30 @@ body {
     cursor: default;
 }
 
-.section2 .section2__title span {
+.section2 .section__title span {
     font-size: 93px;
 }
 
 .body__text {
-    position: absolute;
     color: #ffffff;
     font-size: 22px;
     font-family: 'Cyrvetic', sans-serif;
+    letter-spacing: -0.73px;
     cursor: default;
 }
 
-.section2 .section2__paragraph {
+.body__text span {
+    text-transform: capitalize;
+}
+
+.section2 .section__paragraph {
+    position: absolute;
     top: 1555.4px;
     left: 1124.7px;
 }
 
-.section2 .section2__paragraph span, .section3 .section3__paragraph span {
-    text-transform: capitalize;
-}
-
 .section2 .section__btn {
+    position: absolute;
     top: 1678.1px;
     left: 1124.7px;
 }
@@ -176,12 +196,12 @@ body {
     width: 164.6px;
 }
 
-.section3 .section3__img {
+.section3 .section__img {
     margin: 203px 0px 0px 1087px;
     width: 527px;
 }
 
-.section3 .section3__title {
+.section3 .section__title {
     position: absolute;
     top: 2048.6px;
     left: 198.5px;
@@ -192,16 +212,139 @@ body {
     cursor: default;
 }
 
-.section3 .section3__title span {
+.section3 .section__title span {
     font-size: 67px;
 }
 
-.section3 .section3__paragraph {
+.section3 .section__paragraph {
+    position: absolute;
     top: 2374.2px;
     left: 198.5px;
 }
 
 .section3 .section__btn {
+    position: absolute;
     top: 2443px;
     left: 198.5px;
+}
+
+.section4 {
+    margin-top: 332px;
+}
+
+.section4 .section__title {
+    margin: -132px 0px 206px 76px;
+    color: #ffffff;
+    font-size: 73px;
+    font-family: 'Mencken Std', 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    cursor: default;
+}
+
+.section4 .section__title span {
+    font-size: 86.5px;
+}
+
+.section4 .section__products {
+    display: flex;
+    justify-content: center;
+    width: 1920px;
+}
+
+.section4 .section__products .section__product {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 128.8px;
+    padding: 0px;
+}
+
+.section4 .section__products .section__product .section__info {
+    display: flex;
+    flex-direction: column;
+    padding: 92.1px 0px;
+    width: 376.9px;
+    height: 317.3px;
+    border: 3.23px solid #e6aa56;
+    border-radius: 5.4px;
+}
+
+.section4 .section__products .section__product .section__info .section__info--title {
+    color: #ffffff;
+    font-size: 27.6px;
+    font-family: 'Coolvetica Rg', sans-serif;
+    letter-spacing: 0.3px;
+    cursor: default;
+}
+
+.section4 .section__products .section__product .section__info .section__info--content {
+    padding: 66.1px 0px 67.4px;
+}
+
+.section4 .section__products .section__product .section__info .section__info--title, .section4 .section__products .section__product .section__info .section__info--content, .section4 .section__products .section__product .section__info .section__btn {
+    margin: 0px auto;
+    text-transform: capitalize;
+}
+
+.section4 .section__products .section__product .section__img {
+    margin: -581.8px auto;
+    width: 127px;
+}
+
+.footer {
+    display: grid;
+    justify-content: center;
+    margin-top: 588.8px;
+    text-align: center;
+    width: 1920px;
+}
+
+.footer .footer__decorationline {
+    justify-self: center;
+    width: 635.4px;
+    height: 0px;
+    border: 1.615px solid #e6aa56;
+}
+
+.footer .footer__info {
+    display: flex;
+}
+
+.footer .footer__info .footer__infosection {
+    margin: 138px 28px 162.5px;
+}
+
+.footer .footer__info .footer__infosection .footer__infosection--title {
+    color: #ffffff;
+    font-size: 43.2px;
+    font-family: 'Cyrvetic', sans-serif;
+    font-weight: bold;
+    text-transform: capitalize;
+    letter-spacing: -1.45px;
+    cursor: default;
+}
+
+.footer .footer__info .footer__infosection .footer__infosection--title span {
+    color: #e6aa56;
+}
+
+.footer .footer__info .footer__infosection .body__text {
+    margin-top: -17.9px;
+    line-height: 31.5px;
+}
+
+.footer .footer__copyright {
+    margin: 25px 0px 0.1px;
+    color: #ffffff;
+    font-size: 22px;
+    font-family: 'Cyrvetic', sans-serif;
+    cursor: default;
+}
+
+.footer .footer__copyright .footer__copyright--upper {
+    text-transform: uppercase;
+}
+
+.footer .footer__copyright .footer__copyright--emphasis {
+    text-transform: uppercase;
+    color: #e6aa56;
 }
