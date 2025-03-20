@@ -11,6 +11,7 @@ En este proyecto de HTML + CSS se traajaron diversas actividades relacionadas a 
 |[Día 5](#Dia5)|
 |[Día 6](#Dia6)|
 |[Día 7](#Dia7)|
+|[Día 8](#Dia8)|
 
 <a name="Dia1"></a>
 
@@ -26,7 +27,7 @@ En el día 2 se desarrollaron dos actividades, siendo la primera una inducción 
 
 En la segunda actividad de este día, se desarrolló una hoja de vida HTML que siguió unos parámetros establecidos en la siguiente imagen, haciendo uso de la etiqueta div:
 
-![Formato de hoja de vida solicitado](https://lh3.googleusercontent.com/drive-storage/AJQWtBPpy6pWj7w-ggX8VcupmFqa87zhNxIjFq2IuqdCHimhax46GGNQdNPz9BVkk9eTt3BHNHNRIe4sOD7pQgWVuR6u13KQwGxFge5C0y5_uCpXDQ=w1885-h2012)
+[Formato de hoja de vida solicitado](https://drive.google.com/file/d/17InYLzcxyJ7WHiq4wdrNqNtxrtYJ-JUY/view?usp=drive_link)
 
 [Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_2/Taller_Dia2/)
 [Clic aquí para dirigirse a la documentación de la actividad](Dia_2/Taller_Dia2/README.md)
@@ -102,3 +103,14 @@ En el día 7 se desarrolló una actividad relacionada con la temática hoja de e
 
 [Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_7/)
 [Clic aquí para dirigirse a la documentación de la actividad](Dia_7/README.md)
+
+<a name="Dia8"></a>
+
+## Día 8
+
+En el día 8 se desarrolló una actividad relacionada con la temática hoja de estilo en cascada (archivos tipo CSS), siendo una experiencia meramente estética (únicamente interactiva por la conexión de un panel de navegación con las distintas secciones de la página), puesto que el sitio web creado no cumple ninguna funcionalidad. En este trabajo se hizo uso de diferentes atributos de estilo, haciendo énfasis en los atributos de posición y de formato de texto (así como el uso de divisiones) siguiendo una muestra en formato video con el resultado esperado (el material precisado para la elaboración del proyecto se entregó directamente):
+
+[Formato solicitado](https://drive.google.com/file/d/18O3-7ZhjG0P4HDUWtK2W6eU2o_OhFCin/view?usp=drive_link)
+
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_8/)
+[Clic aquí para dirigirse a la documentación de la actividad](Dia_8/README.md)
