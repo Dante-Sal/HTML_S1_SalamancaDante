@@ -28,8 +28,8 @@ En la segunda actividad de este día, se desarrolló una hoja de vida HTML que s
 
 ![Formato de hoja de vida solicitado](https://lh3.googleusercontent.com/drive-storage/AJQWtBPpy6pWj7w-ggX8VcupmFqa87zhNxIjFq2IuqdCHimhax46GGNQdNPz9BVkk9eTt3BHNHNRIe4sOD7pQgWVuR6u13KQwGxFge5C0y5_uCpXDQ=w1885-h2012)
 
-[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_2/Taller_Dia2/)
-[Clic aquí para dirigirse a la documentación de la actividad](Día_2/Taller_Dia2/README.md)
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_2/Taller_Dia2/)
+[Clic aquí para dirigirse a la documentación de la actividad](Dia_2/Taller_Dia2/README.md)
 
 <a name="Dia3"></a>
 
@@ -37,8 +37,8 @@ En la segunda actividad de este día, se desarrolló una hoja de vida HTML que s
 
 En el día 3 se desarrolló una actividad similar a la segunda del día anterior, pero centrando la creación de la hoja de vida en tablas, filas, columnas y celdas, además de la aplicación del atributo rowspan. Se siguieron exactamente las mismas especificaciones de la actividad anterior, siendo este el resultado obtenido:
 
-[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_3/)
-[Clic aquí para dirigirse a la documentación de la actividad](Día_3/README.md)
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_3/)
+[Clic aquí para dirigirse a la documentación de la actividad](Dia_3/README.md)
 
 <a name="Dia4"></a>
 
@@ -72,8 +72,8 @@ Para complementar el formulario mencionado, se deben añadir los siguientes camp
 
 Asimismo, es fundamental asociar la etiqueta de cada control a su respectivo elemento para mejorar la usabilidad y accesibilidad del formulario.
 
-[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_4/)
-[Clic aquí para dirigirse a la documentación de la actividad](Día_4/README.md)
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_4/)
+[Clic aquí para dirigirse a la documentación de la actividad](Dia_4/README.md)
 
 <a name="Dia5"></a>
 
@@ -83,8 +83,8 @@ En el día 5 se desarrolló una actividad relacionada con la temática hoja de e
 
 [Formato solicitado](https://xd.adobe.com/view/64812a19-92af-4081-a325-50859a53e21f-31d2/)
 
-[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_5/)
-[Clic aquí para dirigirse a la documentación de la actividad](Día_5/README.md)
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_5/)
+[Clic aquí para dirigirse a la documentación de la actividad](Dia_5/README.md)
 
 <a name="Dia6"></a>
 
@@ -100,5 +100,5 @@ En el día 7 se desarrolló una actividad relacionada con la temática hoja de e
 
 [Formato solicitado](https://xd.adobe.com/view/458d657c-d9f7-4ac4-8130-01ca543bef21-10de/)
 
-[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_7/)
-[Clic aquí para dirigirse a la documentación de la actividad](Día_7/README.md)
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_7/)
+[Clic aquí para dirigirse a la documentación de la actividad](Dia_7/README.md)

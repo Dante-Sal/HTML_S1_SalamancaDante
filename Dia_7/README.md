@@ -13,8 +13,8 @@ En este proyecto se trabajó el uso de HTML + CSS, más específicamente del uso
 
 Para poder observar la página web creada en este proyecto se puede realizar de dos maneras diferentes:
 
-1. Accediendo directamente a través de este link: https://dante-sal.github.io/HTML_S1_SalamancaDante/D%C3%ADa_7/
-2. Clonando el repositorio desde una terminal linux a través del comando `git clone https://github.com/Dante-Sal/HTML_S1_SalamancaDante`, accediendo a la ruta HTML_S1_SalamancaDante/Día_7/ y abriendo el archivo index.html con el navegador web de su preferencia.
+1. Accediendo directamente a través de este link: https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_7/
+2. Clonando el repositorio desde una terminal linux a través del comando `git clone https://github.com/Dante-Sal/HTML_S1_SalamancaDante`, accediendo a la ruta HTML_S1_SalamancaDante/Dia_7/ y abriendo el archivo index.html con el navegador web de su preferencia.
 
 <a name="Funcionamiento"></a>
 
