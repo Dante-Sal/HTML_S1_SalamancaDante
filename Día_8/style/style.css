@@ -1,0 +1,207 @@
+@font-face {
+    font-family: 'Mencken Std';
+    src: url(../font/Mencken-Std-Extra-Bold.otf);
+}
+
+@font-face {
+    font-family: 'Coolvetica Rg';
+    src: url(../font/Coolvetica-Rg.otf);
+}
+
+@font-face {
+    font-family: 'Cyrvetic';
+    src: url(../font/CYRVETIC.ttf);
+}
+
+body {
+    margin: 0px;
+    background-color: #0c0b0b;
+}
+
+.header {
+    z-index: 1;
+    position: absolute;
+    margin-top: -3px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+
+.header .header__logo {
+    margin: 0px 0px 0px 347.8px;
+    font-size: 32.3px;
+    font-family: 'Coolvetica Rg', sans-serif;
+    text-transform: capitalize;
+    cursor: default;
+    user-select: none;
+}
+
+.header .header__home {
+    margin: 0px 0px 0px 751.6px;
+    font-size: 18.3px;
+    font-family: 'Cyrvetic', sans-serif;
+    text-transform: capitalize;
+    cursor: default;
+    user-select: none;
+}
+
+.header .header__about, .header .header__menu, .header .header__contact {
+    margin: 0px 0px 0px 55.9px;
+    font-size: 18.3px;
+    font-family: 'Cyrvetic', sans-serif;
+    text-transform: capitalize;
+    cursor: default;
+    user-select: none;
+}
+
+.header .header__home:hover, .header .header__about:hover, .header .header__menu:hover, .header .header__contact:hover {
+    text-decoration: underline #e6aa56;
+    text-underline-offset: 4.1px;
+    cursor: pointer;
+}
+
+.section1 {
+    z-index: 1;
+}
+
+.section1 .section1__img {
+    margin-top: -104.3px;
+    width: 1920px;
+}
+
+.section1 .section1__gradient {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1180px;
+    background: linear-gradient(to bottom, #ffffff00, 90%, #0c0b0b);
+}
+
+.section1 .section1__title {
+    position: absolute;
+    color: #ffffff;
+    font-size: 84.5px;
+    font-family: 'Mencken Std', 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    cursor: default;
+}
+
+.section1 .section1__title1 {
+    top: 87px;
+    left: 610px;
+}
+
+.section1 .section1__title2 {
+    top: 808px;
+    left: 563.8px;
+}
+
+.section__btn {
+    position: absolute;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45.3px;
+    font-size: 18.5px;
+    font-family: 'Cyrvetic', sans-serif;
+    background-color: #e6aa56;
+    text-transform: capitalize;
+    cursor: pointer;
+    user-select: none;
+}
+
+.section__btn--shop {
+    width: 155.3px;
+}
+
+.section1 .section__btn {
+    top: 1027px;
+    left: 882.8px;
+}
+
+.section2 .section2__img {
+    margin: 136.3px 0px 0px 31.7px;
+    width: 780px;
+}
+
+.section2 .section2__decorationline {
+    position: absolute;
+    top: 1489.7px;
+    left: 970.3px;
+    width: 128.6px;
+    height: 0px;
+    border: 3.1px solid #ffffff;
+}
+
+.section2 .section2__title {
+    position: absolute;
+    top: 1354px;
+    left: 1124.7px;
+    color: #ffffff;
+    font-size: 75px;
+    font-family: 'Mencken Std', 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    cursor: default;
+}
+
+.section2 .section2__title span {
+    font-size: 93px;
+}
+
+.body__text {
+    position: absolute;
+    color: #ffffff;
+    font-size: 22px;
+    font-family: 'Cyrvetic', sans-serif;
+    cursor: default;
+}
+
+.section2 .section2__paragraph {
+    top: 1555.4px;
+    left: 1124.7px;
+}
+
+.section2 .section2__paragraph span, .section3 .section3__paragraph span {
+    text-transform: capitalize;
+}
+
+.section2 .section__btn {
+    top: 1678.1px;
+    left: 1124.7px;
+}
+
+.section__btn--learn {
+    width: 164.6px;
+}
+
+.section3 .section3__img {
+    margin: 203px 0px 0px 1087px;
+    width: 527px;
+}
+
+.section3 .section3__title {
+    position: absolute;
+    top: 2048.6px;
+    left: 198.5px;
+    color: #ffffff;
+    font-size: 59px;
+    font-family: 'Mencken Std', 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    cursor: default;
+}
+
+.section3 .section3__title span {
+    font-size: 67px;
+}
+
+.section3 .section3__paragraph {
+    top: 2374.2px;
+    left: 198.5px;
+}
+
+.section3 .section__btn {
+    top: 2443px;
+    left: 198.5px;
+}
