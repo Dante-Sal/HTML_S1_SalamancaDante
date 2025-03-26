@@ -12,6 +12,9 @@ En este proyecto de HTML + CSS se traajaron diversas actividades relacionadas a 
 |[Día 6](#Dia6)|
 |[Día 7](#Dia7)|
 |[Día 8](#Dia8)|
+|[Día 9](#Dia9)|
+|[Día 10](#Dia10)|
+|[Día 11](#Dia11)|
 
 <a name="Dia1"></a>
 
@@ -114,3 +117,22 @@ En el día 8 se desarrolló una actividad relacionada con la temática hoja de e
 
 [Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_8/)
 [Clic aquí para dirigirse a la documentación de la actividad](Dia_8/README.md)
+
+<a name="Dia9"></a>
+
+## Día 9
+
+(Este directorio no contiene ningún elemento)
+
+<a name="Dia10"></a>
+
+## Día 10
+
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_10/)
+
+<a name="Dia11"></a>
+
+## Día 11
+
+[Clic aquí para dirigirse a la página web creada](https://dante-sal.github.io/HTML_S1_SalamancaDante/Dia_11/)
+[Clic aquí para dirigirse a la documentación de la actividad](Dia_11/README.md)
